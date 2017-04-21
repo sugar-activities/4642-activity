@@ -1,0 +1,4 @@
+* Computar eventos desde el teclado
+* Generar síntesis de voz
+* Barrido automático
+* Diseño de interfaz

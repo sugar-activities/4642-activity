@@ -1,0 +1,7 @@
+[Activity]
+name = audio-pattern
+activity_version = 1 
+bundle_id = org.fpuna.audio_pattern
+exec = sugar-activity activity.AudioPatternActivity
+icon = activity-helloworld
+license = GPLv2+
